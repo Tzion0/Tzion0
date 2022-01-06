@@ -1,6 +1,6 @@
 ### 👻 Hey there 👋
 
-My name is Tzion, a student pursuing Information Technology. I'm interested in Cyber Security and i play CTF. You can find me on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/twitter.png" width="15px">](https://twitter.com/Tzion0), or on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/ctftime.png">](https://ctftime.org/team/144469).
+My name is Tzion, a student pursuing Information Technology. I'm interested in Cyber Security and i play CTF. You can find me on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/twitter.png" width="20px">](https://twitter.com/Tzion0), or on [<img src="https://github.com/Tzion0/Tzion0/blob/main/icons/ctftime.png">](https://ctftime.org/team/144469).
 
 ### ✍️ Blog & Writing
 I also maintain a blog with various Cyber Security related contents, you can find it on [tzion0.github.io](https://tzion0.github.io).
