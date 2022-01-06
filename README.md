@@ -1,4 +1,4 @@
-### 👻 Hey there 👋,
+### 👻 Hey there 👋
 
 My name is Tzion, a student pursuing Information Technology. I'm interested in Cyber Security and i play CTF. You can find me on [![Twitter][1.2]][1], or on [![CTFtime][2.2]][2].
 
