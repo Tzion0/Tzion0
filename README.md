@@ -2,7 +2,8 @@
 
 My name is Tzion, a student pursuing Information Technology. I'm interested in Cyber Security and i play CTF. You can find me on [![Twitter][1.2]][1], or on [![CTFtime][2.2]][2].
 
-## Blog & Writing
+## 
+✍️ Blog & Writing
 I also maintain a blog with various Cyber Security related contents, you can find it on [tzion0.github.io](https://tzion0.github.io).
 
 ## Technologies & Tools
